@@ -6,7 +6,7 @@ The Philosophy
 
 Rigorous mathematical proofs often obscure the heuristic investigation that led to their discovery. When reviewing dense material, attempting to memorize line-by-line algebraic manipulations leads to cognitive overload and burnout.
 
-Instead, this repository is built on the idea that every proof hinges on a few critical "pivots" or "crux moves"—the essential intermediate statements or foundational tricks (e.g., applying the Parallelogram Law, or setting up a specific sandwich inequality). If you can remember the crux moves, you can trust yourself to reconstruct the algebraic connective tissue on the fly.
+Instead, this repository is built on the idea that every proof hinges on a few critical ideas — the essential intermediate statements or foundational tricks (e.g., applying the Parallelogram Law, or setting up a specific sandwich inequality). If you can remember the main ideas, you can trust yourself to reconstruct the algebraic connective tissue on the fly.
 
 These notes are designed for extreme brevity to facilitate rapid revision. They are meant to trigger the main ideas so that the details can be filled in naturally.
 
