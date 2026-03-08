@@ -16,15 +16,10 @@ markdown
 
 | Chapter | Topics Covered | Link to Skeletons |
 | :--- | :--- | :--- |
-| **1** | Introduction & Counting Measure | [View PDF](./Chapter1_Intro.pdf) |
-| **2** | Measurable Spaces & $\sigma$-algebras | [View PDF](./Chapter2_Measurable.pdf) |
-| **3** | Measures | [View PDF](./Chapter3_Measures.pdf) |
-| **4** | Measurable Functions | [View PDF](./Chapter4_Functions.pdf) |
-| **5** | Integration | [View PDF](./Chapter5_Integration.pdf) |
-| **6** | Spaces of Integrable Functions ($L^p$ spaces) | [View PDF](./Chapter6_LpSpaces.pdf) |
-| **7** | Product Measures & Fubini’s Theorem | [View PDF](./Chapter7_Product.pdf) |
-| **8** | Probability & Random Variables | [View PDF](./Chapter8_Probability.pdf) |
-| **Errata** | **Corrections to Textbook Errors** | [View Errata](./Errata.pdf) |
+| **1** | Motivation and preliminaries | [View PDF](./Chapter1.pdf) |
+| **2** | Measures | [View PDF](./Chapter2.pdf) |
+| **3** | Measurable Functions | [View PDF](./Chapter3.pdf) |
+| **4** | Integral | [View PDF](./Chapter4.pdf) |
 
 Intended Audience
 
