@@ -10,12 +10,24 @@ Instead, this repository is built on the idea that every proof hinges on a few c
 
 These notes are designed for extreme brevity to facilitate rapid revision. They are meant to trigger the main ideas so that the details can be filled in naturally.
 
-Features
+markdown
+## ⚡ Quick Access: Proof Skeletons by Chapter
 
-Proof Skeletons: Stripped-down proofs highlighting only the core logical pivots.
 
-Errata & Corrections: The textbook contains occasional sloppy wording or blatant logical errors. I have documented these mistakes and provided corrections, often backed by Math Stack Exchange discussions, to save self-studiers from unnecessary confusion.
+| Chapter | Topics Covered | Link to Skeletons |
+| :--- | :--- | :--- |
+| **1** | Introduction & Counting Measure | [View PDF](./Chapter1_Intro.pdf) |
+| **2** | Measurable Spaces & $\sigma$-algebras | [View PDF](./Chapter2_Measurable.pdf) |
+| **3** | Measures | [View PDF](./Chapter3_Measures.pdf) |
+| **4** | Measurable Functions | [View PDF](./Chapter4_Functions.pdf) |
+| **5** | Integration | [View PDF](./Chapter5_Integration.pdf) |
+| **6** | Spaces of Integrable Functions ($L^p$ spaces) | [View PDF](./Chapter6_LpSpaces.pdf) |
+| **7** | Product Measures & Fubini’s Theorem | [View PDF](./Chapter7_Product.pdf) |
+| **8** | Probability & Random Variables | [View PDF](./Chapter8_Probability.pdf) |
+| **Errata** | **Corrections to Textbook Errors** | [View Errata](./Errata.pdf) |
 
 Intended Audience
 
 This material is tailored for my own rapid revision, but it will be highly valuable to self-studiers, incoming graduate students, or quantitative researchers looking to build a robust, intuitive foundation in measure theory and probability without getting lost in the weeds.
+
+"Note to Self-Studiers: If these skeletons helped you navigate a tricky proof in Capinski & Kopp, feel free to Star the repo—it helps me know people are actually using this for their studies!"
