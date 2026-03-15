@@ -20,6 +20,7 @@ markdown
 | **2** | Measures | [View PDF](./Chapter2.pdf) |
 | **3** | Measurable Functions | [View PDF](./Chapter3.pdf) |
 | **4** | Integral | [View PDF](./Chapter4.pdf) |
+| **5** | Spaces of integrable functions | [View PDF](./Chapter5.pdf) |
 
 ## Features
 
