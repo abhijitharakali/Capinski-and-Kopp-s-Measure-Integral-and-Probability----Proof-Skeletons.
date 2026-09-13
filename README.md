@@ -10,9 +10,7 @@ Instead, this repository is built on the idea that every proof hinges on a few c
 
 These notes are designed for extreme brevity to facilitate rapid revision. They are meant to trigger the main ideas so that the details can be filled in naturally.
 
-markdown
 ## ⚡ Quick Access: Proof Skeletons by Chapter
-
 
 | Chapter | Topics Covered | Link to Skeletons |
 | :--- | :--- | :--- |
@@ -22,15 +20,25 @@ markdown
 | **4** | Integral | [View PDF](./Chapter4.pdf) |
 | **5** | Spaces of integrable functions | [View PDF](./Chapter5.pdf) |
 | **6** | Product Measures | [View PDF](./Chapter6.pdf) |
-
+<!--| **7** | Radon-Nikodym Theorem and Conditional Expectation | [View PDF](./Chapter7.pdf) |
+| **8** | Limit Theorems (Statements & Select Proofs) | [View PDF](./Chapter8.pdf) |
+| **Appendix** | Convex Functions, $\pi-\lambda$ Theorem, Carathéodory Extension, Riesz Representation | [View PDF](./Appendix.pdf) |
+-->
 ## Features
 
-Proof Skeletons: Stripped-down proofs highlighting only the core logical pivots.
+**Proof Skeletons:** Stripped-down proofs highlighting only the core logical pivots.
 
-Errata & Corrections: The textbook contains occasional sloppy wording or blatant logical errors. I have documented these mistakes and provided corrections, often backed by Math Stack Exchange discussions, to save self-studiers from unnecessary confusion.
+**Errata & Corrections:** The textbook contains occasional sloppy wording or blatant logical errors. I have documented these mistakes and provided corrections, often backed by Math Stack Exchange discussions, to save self-studiers from unnecessary confusion.
+
+## Scope & Omissions
+
+To keep this repository strictly focused on the core machinery of measure theory and probability, a few specific sections of the textbook have been intentionally omitted:
+* **Mathematical Finance:** The finance application sections sprinkled throughout the chapters are excluded.
+* **Martingales (Chapter 7):** The martingales section has been dropped, as this topic is better served by dedicated stochastic calculus texts.
+* **Chapter 8:** This chapter acts primarily as a reference. It contains all the limit theorem statements for completeness, but proofs are only provided for a select few foundational theorems.
 
 ## Intended Audience
 
 This material is tailored for my own rapid revision, but it will be highly valuable to self-studiers, incoming graduate students, or quantitative researchers looking to build a robust, intuitive foundation in measure theory and probability without getting lost in the weeds.
 
-"Note to Self-Studiers: If these skeletons helped you navigate a tricky proof in Capinski & Kopp, feel free to Star the repo—it helps me know people are actually using this for their studies!"
+*Note to Self-Studiers: If these skeletons helped you navigate a tricky proof in Capinski & Kopp, feel free to Star the repo—it helps me know people are actually using this for their studies!*
