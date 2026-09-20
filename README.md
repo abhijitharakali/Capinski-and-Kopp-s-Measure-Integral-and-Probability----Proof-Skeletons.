@@ -21,6 +21,7 @@ These notes are designed for extreme brevity to facilitate rapid revision. They 
 | **5** | Spaces of integrable functions | [View PDF](./Chapter5.pdf) |
 | **6** | Product Measures | [View PDF](./Chapter6.pdf) |
 | **7** | Radon-Nikodym Theorem and Conditional Expectation | [View PDF](./Chapter7.pdf) |
+| **8** | Limit Theorems (Statements & Select Proofs) | [View PDF](./Chapter8.pdf) |
 | **Appendix** | Convex Functions, $\pi-\lambda$ Theorem, Carathéodory Extension, Riesz Representation | [View PDF](./Appendix.pdf) |
 
 <!--| **8** | Limit Theorems (Statements & Select Proofs) | [View PDF](./Chapter8.pdf) |-->
